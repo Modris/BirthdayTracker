@@ -1,0 +1,35 @@
+#notepad++ backup files.
+*.bak
+# Package files #
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+*.class
+
+# Intellij 
+
+*.iml
+*.idea
+
+# Eclipse specific files
+
+.settings/
+
+.classpath
+
+.project
+
+# Build output
+
+target/
+bin/
+out/
+build/
+build.xml
+
+# Log files
+
+*.log
